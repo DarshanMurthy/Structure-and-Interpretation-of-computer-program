@@ -1,2 +1,4 @@
 Y combinator:
 http://mvanier.livejournal.com/2897.html
+
+Notes: Long story short, it allows you to implement recursion in a language that doesn't necessarily support it natively.
