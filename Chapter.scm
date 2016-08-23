@@ -11,16 +11,13 @@
 (newline)
 
 
-(display(+ (* 2 4) (- 4 6))) ; 
-(define a 3) 
-(display a)
-(define b (+ a 1))
-(+ a b (* a b))
-(= a b)
+(display(+ (* 2 4) (- 4 6))) ;response 6 
+(define a 3) ;response a=3
+(define b (+ a 1)) ;response b=4
+(display (+ a b (* a b))) ;response 19
+(display (= a b)) ;response #f
 (newline)
-;(define b (+ a 1))
-;(+ a b (* a b))
-;(= a b)
+
 
 
 ;Exercise 1.2: Translate the following expression into prefix form:

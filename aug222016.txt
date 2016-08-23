@@ -1,0 +1,8 @@
+# https://en.wikipedia.org/wiki/Gambler%27s_fallacy
+Gambler's Fallacy: 
+
+#http://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html
+Gist: Solpy ideas has potential become powerful.
+
+Robert Harper
+#http://www.cs.cmu.edu/~rwh/
