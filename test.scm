@@ -1,3 +1,8 @@
 #!/usr/local/bin/csi -s
 
-(display "test")
+(define pi 3.14)
+
+(display 1 )
+
+(newline)
+

@@ -1,9 +1,14 @@
 #!/usr/local/bin/csi -s
 
-(display "hello")
-(display (+ 4 5))
-(display (* 56 7))
 
+(display(+ 1 2 3))
+
+display(+ 12 (* 12 34 12))
+
+
+(display(/ 12 34))
+
+(define age 12)
+(define size 4)
 (newline)
-
-(display (* (+ 2 (* 4 6))))
+(display(* age size))
